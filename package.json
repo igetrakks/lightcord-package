@@ -5,5 +5,5 @@
   "main": "dist/index.js",
   "author": "Lucifer",
   "license": "MIT",
-  "private": true,
+  "private": true
 }
